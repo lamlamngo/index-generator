@@ -1,0 +1,9 @@
+(all) .same ,word,
+#
+all! same" ''word
+#
+all???? same word
+#
+all same word
+#
+all same word
